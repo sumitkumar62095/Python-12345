@@ -1,10 +1,10 @@
 #=========boolean data type========#
 
-#a=10
-#b=30
+a=10
+b=30
 
-#print(a<b)
-#print(a>b)
-#print(a!=b)
-#print(a==b)
+print(a<b)
+print(a>b)
+print(a!=b)
+print(a==b)
 
